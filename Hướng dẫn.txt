@@ -1,0 +1,12 @@
+Hướng dẫn chạy bài lab:
+	labtainer stego_code_bpcs_lsb
+chạy lệnh:
+sudo python3 process.py
+chạy lệnh:
+sudo python3 steganography.py
+chạy lệnh:
+ls -lh file(output) file(input)
+
+Chạy lại bài lab:
+
+labtainer -r stego_code_bpcs_lsb
