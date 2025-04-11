@@ -1,7 +1,9 @@
+imodule https://github.com/ducanh2oo3/stegano_code_bpcs_lsb/raw/refs/heads/main/imodule.tar
+
 Hướng dẫn chạy bài lab:
 	labtainer stego_code_bpcs_lsb
 chạy lệnh:
-sudo python3 process.py
+sudo python3 preprocess.py
 chạy lệnh:
 sudo python3 steganography.py
 chạy lệnh:
